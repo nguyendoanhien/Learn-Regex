@@ -1,0 +1,3 @@
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+http://www.ultrapico.com/ExpressoDownload.htm
+http://regexlib.com/
