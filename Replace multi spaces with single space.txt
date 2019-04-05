@@ -1,0 +1,6 @@
+Given that you also want to cover tabs, newlines, etc, just replace \s\s+ with ' ':
+
+string = string.replace(/\s\s+/g, ' ');
+If you really want to cover only spaces (and thus not tabs, newlines, etc), do so:
+
+string = string.replace(/  +/g, ' ');

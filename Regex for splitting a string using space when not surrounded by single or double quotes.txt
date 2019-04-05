@@ -1,0 +1,18 @@
+[^\s"']+|"([^"]*)"|'([^']*)'
+
+________________________________
+This is a string that "will be" highlighted when your 'regular expression' matches something.
+Desired output:
+
+This
+is
+a
+string
+that
+will be
+highlighted
+when
+your
+regular expression
+matches
+something.
